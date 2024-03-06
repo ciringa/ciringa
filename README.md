@@ -30,10 +30,10 @@ hey i'm Thierrir Alencar. i'm currently a backend developer who's searching for 
 <table width:"100%">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ciringa&hide_title=false&hide_rank=false&bg_color=ffffff00&show_icons=true&card_width=620&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true" height="200" alt="stats graph"  />
+      <img src="https://github-readme-stats.vercel.app/api?username=ciringa&hide_title=false&hide_rank=false&bg_color=ffffff00&show_icons=true&card_width=620&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true" height="200" alt="stats graph"  />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciringa&bg_color=ffffff00&hide_border=true&locale=pt-br&card_width=380&theme=react&no-frame=true&langs_count=4" height="200" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciringa&bg_color=ffffff00&hide_border=true&locale=pt-br&card_width=380&theme=dracula&no-frame=true&langs_count=4" height="200" />
     </td>
   </tr>
 </table>
