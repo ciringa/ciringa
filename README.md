@@ -10,7 +10,7 @@ hey i'm Thierrir Alencar. i'm currently a backend developer who's searching for 
 </div>
 
 
-## Tecnologies that i work(or at least i can work)
+## Tecnologies that i work
 
 <div style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
