@@ -40,4 +40,4 @@ hey i'm Thierrir Alencar. i'm currently a backend developer who's searching for 
 
 <br>
 
-  ##
+[![trophy](https://github-profile-trophy.vercel.app/?username=ciringa)](https://github.com/ryo-ma/github-profile-trophy)
