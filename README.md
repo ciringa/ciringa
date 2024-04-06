@@ -1,8 +1,8 @@
 ### Hi there 👋
 hey i'm Thierrir Alencar. i'm currently a backend developer who's searching for oportunitys to increase my skills and my professional life
-
+<a href="https://app.rocketseat.com.br/certificates/43f08733-e1d4-4676-95cb-acf1ff0613e0"><img src="https://app.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat-logo.svg&w=256&q=75" /></a>
 <div style="display: inline_block">
-   <br>
+<br>
    <a href="https://www.instagram.com/thierriralencar?igsh=MWg5ZDdncjU0NHdwdQ== "><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
    <a href="https://twitter.com/Ciringa_Men"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
    <a href="https://www.linkedin.com/in/thierrir-alencar-72761b293/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
