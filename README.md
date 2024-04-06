@@ -1,5 +1,6 @@
 ### Hi there 👋
 hey i'm Thierrir Alencar. i'm currently a backend developer who's searching for oportunitys to increase my skills and my professional life
+## Certificates
 <a href="https://app.rocketseat.com.br/certificates/43f08733-e1d4-4676-95cb-acf1ff0613e0"><img src="https://app.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat-logo.svg&w=256&q=75" /></a>
 <div style="display: inline_block">
 <br>
