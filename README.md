@@ -20,15 +20,13 @@
 ## Tech Stack
 
 <div style="display: inline_block"><br>
-  <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img align="center" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-   <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-   <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-   <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+
+
+  <img align="center" src="https://skillicons.dev/icons?i=js,html,css,gamemakerstudio,lua,mysql,nodejs,sqlite,ts,vscode,postgres,firebase" /> <br><br>
+  <img align="center" src="https://img.shields.io/badge/Zod%20⭐--orange?style=for-the-badge&labelColor=orange" />
+  <img align="center" src="https://img.shields.io/badge/Prisma%20⭐--blue?style=for-the-badge&labelColor=blue" />
+  <img align="center" src="https://img.shields.io/badge/Fastify%20⭐--purple?style=for-the-badge&labelColor=purple" />
+  <img align="center" src="https://img.shields.io/badge/Swagger%20⭐--green?style=for-the-badge&labelColor=green" />
 </div>
 
 ## My progress:
