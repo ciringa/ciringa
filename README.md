@@ -4,8 +4,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=72006D&background=34002200&center=true&vCenter=true&random=true&width=435&lines=Welcome+My+Name+is+Thierrir+Alencar" alt="Typing SVG" /></a>
 <p>
 
-## Certificates
-<a href="https://app.rocketseat.com.br/certificates/43f08733-e1d4-4676-95cb-acf1ff0613e0"><img src="https://app.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat-logo.svg&w=256&q=75" /></a>
+A BackEnd NodeJS Developer with abilitys of CleanCode, Game Development and DevOps  
+
 
 ## Social
 <div style="display: inline_block" align = "center>
