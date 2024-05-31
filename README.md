@@ -4,8 +4,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=72006D&background=34002200&center=true&vCenter=true&random=true&width=435&lines=Welcome+My+Name+is+Thierrir+Alencar" alt="Typing SVG" /></a>
 <p>
 
-A BackEnd NodeJS Developer with abilitys of CleanCode, Game Development and DevOps  
-
+<p align="center" text-align="center" width="100px">
+      A BackEnd NodeJS Developer with abilitys of CleanCode, Game Development and DevOps.  
+</p>
 
 ## Social
 <div style="display: inline_block" align = "center>
