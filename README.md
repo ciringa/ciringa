@@ -21,8 +21,6 @@
   <img align="center" src="https://img.shields.io/badge/Swagger%20⭐--green?style=for-the-badge&labelColor=green" />
 </div>
 
-## My progress:
-
 <br>
   
 <table width:"100%">
