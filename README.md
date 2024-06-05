@@ -8,15 +8,6 @@
       A BackEnd NodeJS Developer with abilitys of CleanCode, Game Development and DevOps.  
 </p>
 
-## Social
-<div style="display: inline_block" align = "center>
-<br>
-   <a href="https://www.instagram.com/thierriralencar?igsh=MWg5ZDdncjU0NHdwdQ== "><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge"></a>
-   <a href="https://twitter.com/Ciringa_Men"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-   <a href="https://www.linkedin.com/in/thierrir-alencar-72761b293/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-   <a href="thierrird95468@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
 
 ## Tech Stack
 
