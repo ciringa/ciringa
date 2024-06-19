@@ -12,13 +12,7 @@
 ## Tech Stack
 
 <div style="display: inline_block"><br>
-
-
-  <img align="center" src="https://skillicons.dev/icons?i=js,html,css,gamemakerstudio,lua,mysql,nodejs,sqlite,ts,vscode,postgres,firebase" /> <br><br>
-  <img align="center" src="https://img.shields.io/badge/Zod%20⭐--orange?style=for-the-badge&labelColor=orange" />
-  <img align="center" src="https://img.shields.io/badge/Prisma%20⭐--blue?style=for-the-badge&labelColor=blue" />
-  <img align="center" src="https://img.shields.io/badge/Fastify%20⭐--purple?style=for-the-badge&labelColor=purple" />
-  <img align="center" src="https://img.shields.io/badge/Swagger%20⭐--green?style=for-the-badge&labelColor=green" />
+  <img align="center" src="https://skillicons.dev/icons?i=js,html,css,gamemakerstudio,lua,mysql,nodejs,sqlite,ts,vscode,postgres,firebase,electron,express,netlify,prisma,vitest" /> <br><br>
 </div>
 
 <br>
