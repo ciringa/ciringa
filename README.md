@@ -12,7 +12,7 @@
 ## Tech Stack
 
 <div style="display: inline_block"><br>
-  <img align="center" src="https://skillicons.dev/icons?i=js,html,css,gamemakerstudio,lua,mysql,nodejs,sqlite,ts,vscode,postgres,firebase,electron,express,netlify,prisma,vitest" /> <br><br>
+  <img align="center" src="https://skillicons.dev/icons?i=js,html,css,gamemakerstudio,lua,mysql,nodejs,sqlite,ts,vscode,docker,postgres,firebase,electron,express,netlify,prisma,vitest" /> <br><br>
 </div>
 
 <br>
