@@ -16,18 +16,16 @@
 </div>
 
 <br>
-  
-<table width:"100%">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ciringa&hide_title=false&hide_rank=false&bg_color=ffffff00&show_icons=true&card_width=620&include_all_commits=true&count_private=true&disable_animations=false&theme=purple&locale=pt-br&hide_border=true" height="200" alt="stats graph"  />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciringa&bg_color=ffffff00&hide_border=true&locale=pt-br&card_width=380&theme=purple&no-frame=true&langs_count=4" height="200" />
-    </td>
-  </tr>
-</table>
 
+## 
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=ciringa&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=ciringa&show_icons=true&theme=vision-friendly-dark&hide_border=true">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciringa&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark&hide_border=true">
+</p>
+ 
 <br>
 
 
