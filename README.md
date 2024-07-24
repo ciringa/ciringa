@@ -30,8 +30,8 @@
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=ciringa&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ciringa&show_icons=true&theme=vision-friendly-dark&hide_border=true">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciringa&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark&hide_border=true">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ciringa&show_icons=true&theme=vision-friendly-dark&hide_border=true">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciringa&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark&hide_border=true">
 </div>
  
 <br>
