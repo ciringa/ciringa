@@ -14,7 +14,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,gamemakerstudio,lua,mysql,nodejs,sqlite,ts,vscode,docker,postgres" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,gamemakerstudio,go,mysql,nodejs,sqlite,ts,vscode,docker,postgres" />
   </a>
 </p>
 <p align="center">
