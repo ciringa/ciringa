@@ -5,7 +5,7 @@
 <p>
 
 <p align="center" text-align="center" width="100px">
-      A BackEnd NodeJS Developer with abilitys of CleanCode, Game Development and DevOps.  
+      A BackEnd NodeJS Developer with skills of CleanCode, Game Development and DevOps.  
 </p>
 
 
