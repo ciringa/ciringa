@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,electron,express,netlify,prisma,vitest,htmx,sqlite" />
+    <img src="https://skillicons.dev/icons?i=firebase,electron,express,netlify,prisma,vitest,htmx,sqlite,java" />
   </a>
 </p>
 <br>
