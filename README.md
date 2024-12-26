@@ -12,12 +12,12 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,gamemakerstudio,mysql,nodejs,ts,vscode,docker,postgres,nestjs,opencv,python" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,gamemakerstudio,nodejs,ts,docker,postgres,nestjs,python,java" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,electron,express,netlify,prisma,vitest,htmx,sqlite,java" />
+    <img src="https://skillicons.dev/icons?i=firebase,electron,mysql,express,prisma,vitest,sqlite,vscode,opencv" />
   </a>
 </p>
 <br>
