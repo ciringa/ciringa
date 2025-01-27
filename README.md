@@ -3,7 +3,7 @@
 <p>
 
 <p align="center" text-align="center" width="100px">
-      A BackEnd NodeJS Developer with skills of CleanCode, Game Development and DevOps.  
+      A BackEnd NodeJS Developer with skills of CleanCode, Game Development, Machine Learning and DevOps.  
 </p>
 
 
